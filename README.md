@@ -4,7 +4,7 @@ Install and run on android
 
 npm install -g react-native-cli
 
-cd react-native-quick-sample
+cd swirepay-react-native-sdk-demo
 
 npm install
 
@@ -16,7 +16,7 @@ Install and run on ios
 
 npm install -g react-native-cli
 
-cd react-native-quick-sample
+cd swirepay-react-native-sdk-demo
 
 npm install
 
